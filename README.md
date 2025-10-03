@@ -2,13 +2,13 @@
 
 ## Guías de ejercicios
 
-| Guía                  | Repo      |
-|-----------------------|-----------|
-| Introducción a Python (Parte 1)  | [Guia-IntroPython-1](./Guia-IntroPython-1.ipynb) |
-| Introducción a Python (Parte 2)  | [Guia-IntroPython-2](./Guia-IntroPython-2.ipynb) |
-| Grafos (Parte 1)                 | [Guia-Grafos-1](./Guia-Grafos-1.ipynb)           |
-| Grafos (Parte 2)                 | [Guia-Grafos-2](./Guia-Grafos-2.ipynb)           |
-| Grafos (Parte 3)                 | [Guia-Grafos-3](./Guia-Grafos-3.ipynb)           |
-| Registros                        | [Guia-Registros](./Guia-Registros.ipynb)         |
-| XML                              | [Guia-XML](./Guia-XML.ipynb)                     |
-| Expresiones Regulares            | [Guia-Regex](./Guia-Regex.ipynb)                 |
+| Guía                  | Descargar      |
+|-----------------------|----------------|
+| Introducción a Python (Parte 1)  | [Descargar](./Guia-IntroPython-1.ipynb?raw=true) |
+| Introducción a Python (Parte 2)  | [Descargar](./Guia-IntroPython-2.ipynb?raw=true) |
+| Grafos (Parte 1)                 | [Descargar](./Guia-Grafos-1.ipynb?raw=true)      |
+| Grafos (Parte 2)                 | [Descargar](./Guia-Grafos-2.ipynb?raw=true)      |
+| Grafos (Parte 3)                 | [Descargar](./Guia-Grafos-3.ipynb?raw=true)      |
+| Registros                        | [Descargar](./Guia-Registros.ipynb?raw=true)     |
+| XML                              | [Descargar](./Guia-XML.ipynb?raw=true)           |
+| Expresiones Regulares            | [Descargar](./Guia-Regex.ipynb?raw=true)         |
