@@ -1,5 +1,6 @@
 black
 black[jupyter]
+folium
 gdown
 isort
 jupyterlab
