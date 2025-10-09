@@ -1,0 +1,11 @@
+black
+black[jupyter]
+gdown
+isort
+jupyterlab
+jupyterlab_code_formatter
+lxml
+matplotlib
+mypy
+networkx
+requests
