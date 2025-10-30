@@ -1,0 +1,26 @@
+[
+  {
+    "legajo": "200001",
+    "apellido": "Gómez",
+    "nombre": "Laura",
+    "domicilio": "Mitre 123",
+    "localidad": "Tigre",
+    "telefono": "117778888"
+  },
+  {
+    "legajo": "200002",
+    "apellido": "Fernández",
+    "nombre": "Carlos",
+    "domicilio": "Belgrano 456",
+    "localidad": "San Isidro",
+    "telefono": "116667777"
+  },
+  {
+    "legajo": "200003",
+    "apellido": "Paz",
+    "nombre": "Elena",
+    "domicilio": "Roca 789",
+    "localidad": "Vicente López",
+    "telefono": "115556666"
+  }
+]
