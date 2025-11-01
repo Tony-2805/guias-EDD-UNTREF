@@ -1,0 +1,13 @@
+<biblioteca sede="Caseros">
+  <libro id="1" precio="300">
+    <titulo>El Quijote</titulo>
+    <autor>Cervantes</autor>
+    <anio>1605</anio>
+  </libro>
+  <libro id="2">
+    <titulo>XML from Scratch</titulo>
+    <autor>Rojo</autor>
+    <autor>Becker</autor>
+    <anio>1949</anio>
+  </libro>
+</biblioteca>

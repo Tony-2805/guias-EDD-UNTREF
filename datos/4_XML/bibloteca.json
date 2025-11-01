@@ -1,0 +1,57 @@
+{
+  "biblioteca": {
+    "@sede": "Caseros",
+    "children": [
+      {
+        "libro": {
+          "@id": "1",
+          "@precio": "300",
+          "children": [
+            {
+              "titulo": {
+                "text": "El Quijote"
+              }
+            },
+            {
+              "autor": {
+                "text": "Cervantes"
+              }
+            },
+            {
+              "anio": {
+                "text": "1605"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "libro": {
+          "@id": "2",
+          "children": [
+            {
+              "titulo": {
+                "text": "XML from Scratch"
+              }
+            },
+            {
+              "autor": {
+                "text": "Rojo"
+              }
+            },
+            {
+              "autor": {
+                "text": "Becker"
+              }
+            },
+            {
+              "anio": {
+                "text": "1949"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

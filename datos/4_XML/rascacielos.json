@@ -1,0 +1,423 @@
+{
+  "rascacielos": {
+    "children": [
+      {
+        "ciudades": {
+          "children": [
+            {
+              "continente": {
+                "@nombre": "Asia",
+                "children": [
+                  {
+                    "pais": {
+                      "@nombre": "China",
+                      "children": [
+                        {
+                          "ciudad": {
+                            "text": "Shanghái"
+                          }
+                        },
+                        {
+                          "ciudad": {
+                            "text": "Guangzhou"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "pais": {
+                      "@nombre": "Emiratos Árabes Unidos",
+                      "children": [
+                        {
+                          "ciudad": {
+                            "text": "Dubái"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "pais": {
+                      "@nombre": "Taiwan",
+                      "children": [
+                        {
+                          "ciudad": {
+                            "text": "Taipéi"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "continente": {
+                "@nombre": "América",
+                "children": [
+                  {
+                    "pais": {
+                      "@nombre": "Estados Unidos de América",
+                      "children": [
+                        {
+                          "ciudad": {
+                            "text": "Nueva York"
+                          }
+                        },
+                        {
+                          "ciudad": {
+                            "text": "Chicago"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "edificios": {
+          "children": [
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "Burj Khalifa"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Dubái"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "828"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "163"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2010"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "Shanghái Tower"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Shanghái"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "632"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "128"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2015"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "One World Trade Center"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Nueva York"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "541"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "104"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2014"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "CTF Finance Centre"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Guangzhou"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "530"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "111"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2016"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "Taipéi 101"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Taipéi"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "509"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "101"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2004"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "Shanghái World Financial Center"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Shanghái"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "492"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "101"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2018"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "Sears Towers"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Chicago"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "442"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "107"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "1974"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "432 Park Avenue"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Nueva York"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "426"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "88"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2015"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "edificio": {
+                "children": [
+                  {
+                    "nombre": {
+                      "text": "Trump Tower"
+                    }
+                  },
+                  {
+                    "ciudad": {
+                      "text": "Chicago"
+                    }
+                  },
+                  {
+                    "datos": {
+                      "children": [
+                        {
+                          "altura": {
+                            "text": "423"
+                          }
+                        },
+                        {
+                          "pisos": {
+                            "text": "98"
+                          }
+                        },
+                        {
+                          "completado": {
+                            "text": "2009"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
