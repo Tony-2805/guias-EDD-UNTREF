@@ -1,0 +1,302 @@
+[
+  {
+    "category": "Crime",
+    "title": "The Long Shadow of Small Ghosts: Murder and Memory in an American City",
+    "price": 10.97,
+    "availability": "In stock"
+  },
+  {
+    "category": "Erotica",
+    "title": "Dark Notes",
+    "price": 19.19,
+    "availability": "In stock"
+  },
+  {
+    "category": "Cultural",
+    "title": "Amid the Chaos",
+    "price": 36.58,
+    "availability": "In stock"
+  },
+  {
+    "category": "Politics",
+    "title": "Libertarianism for Beginners",
+    "price": 51.33,
+    "availability": "In stock"
+  },
+  {
+    "category": "Health",
+    "title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+    "price": 49.05,
+    "availability": "In stock"
+  },
+  {
+    "category": "Novels",
+    "title": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
+    "price": 54.81,
+    "availability": "In stock"
+  },
+  {
+    "category": "Short Stories",
+    "title": "The Grownup",
+    "price": 35.88,
+    "availability": "In stock"
+  },
+  {
+    "category": "Suspense",
+    "title": "Silence in the Dark (Logan Point #4)",
+    "price": 58.33,
+    "availability": "In stock"
+  },
+  {
+    "category": "Christian",
+    "title": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+    "price": 25.77,
+    "availability": "In stock"
+  },
+  {
+    "category": "Historical",
+    "title": "The Girl You Left Behind (The Girl You Left Behind #1)",
+    "price": 15.79,
+    "availability": "In stock"
+  },
+  {
+    "category": "Self Help",
+    "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "price": 12.08,
+    "availability": "In stock"
+  },
+  {
+    "category": "Academic",
+    "title": "Logan Kade (Fallen Crest High #5.5)",
+    "price": 13.12,
+    "availability": "In stock"
+  },
+  {
+    "category": "Spirituality",
+    "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "price": 17.66,
+    "availability": "In stock"
+  },
+  {
+    "category": "Contemporary",
+    "title": "We Are All Completely Beside Ourselves",
+    "price": 24.04,
+    "availability": "In stock"
+  },
+  {
+    "category": "Thriller",
+    "title": "In Her Wake",
+    "price": 12.84,
+    "availability": "In stock"
+  },
+  {
+    "category": "Biography",
+    "title": "Louisa: The Extraordinary Life of Mrs. Adams",
+    "price": 16.85,
+    "availability": "In stock"
+  },
+  {
+    "category": "Business",
+    "title": "The Third Wave: An Entrepreneur’s Vision of the Future",
+    "price": 12.61,
+    "availability": "In stock"
+  },
+  {
+    "category": "Christian Fiction",
+    "title": "Counted With the Stars (Out from Egypt #1)",
+    "price": 17.97,
+    "availability": "In stock"
+  },
+  {
+    "category": "Food and Drink",
+    "title": "The Power Greens Cookbook: 140 Delicious Superfood Recipes",
+    "price": 11.05,
+    "availability": "In stock"
+  },
+  {
+    "category": "History",
+    "title": "Brilliant Beacons: A History of the American Lighthouse",
+    "price": 11.45,
+    "availability": "In stock"
+  },
+  {
+    "category": "Horror",
+    "title": "Pet Sematary",
+    "price": 10.56,
+    "availability": "In stock"
+  },
+  {
+    "category": "Humor",
+    "title": "Old School (Diary of a Wimpy Kid #10)",
+    "price": 11.83,
+    "availability": "In stock"
+  },
+  {
+    "category": "Adult Fiction",
+    "title": "Fifty Shades Freed (Fifty Shades #3)",
+    "price": 15.36,
+    "availability": "In stock"
+  },
+  {
+    "category": "Parenting",
+    "title": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
+    "price": 37.35,
+    "availability": "In stock"
+  },
+  {
+    "category": "Autobiography",
+    "title": "The Argonauts",
+    "price": 10.93,
+    "availability": "In stock"
+  },
+  {
+    "category": "Psychology",
+    "title": "The Lucifer Effect: Understanding How Good People Turn Evil",
+    "price": 10.4,
+    "availability": "In stock"
+  },
+  {
+    "category": "Art",
+    "title": "History of Beauty",
+    "price": 10.29,
+    "availability": "In stock"
+  },
+  {
+    "category": "Paranormal",
+    "title": "Vampire Knight, Vol. 1 (Vampire Knight #1)",
+    "price": 15.4,
+    "availability": "In stock"
+  },
+  {
+    "category": "Poetry",
+    "title": "Poems That Make Grown Women Cry",
+    "price": 14.19,
+    "availability": "In stock"
+  },
+  {
+    "category": "Science",
+    "title": "The Origin of Species",
+    "price": 10.01,
+    "availability": "In stock"
+  },
+  {
+    "category": "Young Adult",
+    "title": "An Abundance of Katherines",
+    "price": 10.0,
+    "availability": "In stock"
+  },
+  {
+    "category": "New Adult",
+    "title": "The Hook Up (Game On #1)",
+    "price": 36.29,
+    "availability": "In stock"
+  },
+  {
+    "category": "Fantasy",
+    "title": "Every Heart a Doorway (Every Heart A Doorway #1)",
+    "price": 12.16,
+    "availability": "In stock"
+  },
+  {
+    "category": "Add a comment",
+    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "price": 10.02,
+    "availability": "In stock"
+  },
+  {
+    "category": "Sports and Games",
+    "title": "Sugar Rush (Offensive Line #2)",
+    "price": 24.42,
+    "availability": "In stock"
+  },
+  {
+    "category": "Science Fiction",
+    "title": "The Project",
+    "price": 10.65,
+    "availability": "In stock"
+  },
+  {
+    "category": "Default",
+    "title": "Greek Mythic History",
+    "price": 10.23,
+    "availability": "In stock"
+  },
+  {
+    "category": "Music",
+    "title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+    "price": 12.36,
+    "availability": "In stock"
+  },
+  {
+    "category": "Nonfiction",
+    "title": "The Sleep Revolution: Transforming Your Life, One Night at a Time",
+    "price": 11.68,
+    "availability": "In stock"
+  },
+  {
+    "category": "Religion",
+    "title": "You Are What You Love: The Spiritual Power of Habit",
+    "price": 21.87,
+    "availability": "In stock"
+  },
+  {
+    "category": "Childrens",
+    "title": "Counting Thyme",
+    "price": 10.62,
+    "availability": "In stock"
+  },
+  {
+    "category": "Fiction",
+    "title": "I Am Pilgrim (Pilgrim #1)",
+    "price": 10.6,
+    "availability": "In stock"
+  },
+  {
+    "category": "Womens Fiction",
+    "title": "Some Women",
+    "price": 13.73,
+    "availability": "In stock"
+  },
+  {
+    "category": "Romance",
+    "title": "Reservations for Two",
+    "price": 11.1,
+    "availability": "In stock"
+  },
+  {
+    "category": "Philosophy",
+    "title": "Sophie's World",
+    "price": 15.94,
+    "availability": "In stock"
+  },
+  {
+    "category": "Classics",
+    "title": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+    "price": 14.82,
+    "availability": "In stock"
+  },
+  {
+    "category": "Sequential Art",
+    "title": "Patience",
+    "price": 10.16,
+    "availability": "In stock"
+  },
+  {
+    "category": "Historical Fiction",
+    "title": "The Constant Princess (The Tudor Court #1)",
+    "price": 16.62,
+    "availability": "In stock"
+  },
+  {
+    "category": "Mystery",
+    "title": "Tastes Like Fear (DI Marnie Rome #3)",
+    "price": 10.69,
+    "availability": "In stock"
+  },
+  {
+    "category": "Travel",
+    "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+    "price": 23.21,
+    "availability": "In stock"
+  }
+]

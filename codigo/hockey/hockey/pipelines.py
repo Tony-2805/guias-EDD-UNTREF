@@ -6,6 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+import json
 
 
 class HockeyPipeline:
@@ -29,6 +30,5 @@ class HockeyPipeline:
         ]
 
         # Guardar archivo en la carpeta ./datos/scrapy/
-        with open("../../datos/scrapy/hockey_teams.json", "w", encoding="utf-8") as f:
-            import json
+        with open("../../datos/scrapy/hockey_teams.json", "w", encoding="utf-8") as f:   
             json.dump(resultados, f, ensure_ascii=False, indent=2)
