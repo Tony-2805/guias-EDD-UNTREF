@@ -1,0 +1,107 @@
+[
+  {
+    "year": "1990",
+    "name": "Chicago Blackhawks",
+    "wins": 49
+  },
+  {
+    "year": "1991",
+    "name": "New York Rangers",
+    "wins": 50
+  },
+  {
+    "year": "1992",
+    "name": "Pittsburgh Penguins",
+    "wins": 56
+  },
+  {
+    "year": "1993",
+    "name": "New York Rangers",
+    "wins": 52
+  },
+  {
+    "year": "1994",
+    "name": "Detroit Red Wings",
+    "wins": 33
+  },
+  {
+    "year": "1995",
+    "name": "Detroit Red Wings",
+    "wins": 62
+  },
+  {
+    "year": "1996",
+    "name": "Colorado Avalanche",
+    "wins": 49
+  },
+  {
+    "year": "1997",
+    "name": "Dallas Stars",
+    "wins": 49
+  },
+  {
+    "year": "1998",
+    "name": "Dallas Stars",
+    "wins": 51
+  },
+  {
+    "year": "1999",
+    "name": "St. Louis Blues",
+    "wins": 51
+  },
+  {
+    "year": "2000",
+    "name": "Colorado Avalanche",
+    "wins": 52
+  },
+  {
+    "year": "2001",
+    "name": "Detroit Red Wings",
+    "wins": 51
+  },
+  {
+    "year": "2002",
+    "name": "Ottawa Senators",
+    "wins": 52
+  },
+  {
+    "year": "2003",
+    "name": "Detroit Red Wings",
+    "wins": 48
+  },
+  {
+    "year": "2005",
+    "name": "Detroit Red Wings",
+    "wins": 58
+  },
+  {
+    "year": "2006",
+    "name": "Buffalo Sabres",
+    "wins": 53
+  },
+  {
+    "year": "2007",
+    "name": "Detroit Red Wings",
+    "wins": 54
+  },
+  {
+    "year": "2008",
+    "name": "Boston Bruins",
+    "wins": 53
+  },
+  {
+    "year": "2009",
+    "name": "Washington Capitals",
+    "wins": 54
+  },
+  {
+    "year": "2010",
+    "name": "Vancouver Canucks",
+    "wins": 54
+  },
+  {
+    "year": "2011",
+    "name": "New York Rangers",
+    "wins": 51
+  }
+]
